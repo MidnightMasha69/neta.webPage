@@ -8,4 +8,4 @@ Changelog:
 
     v0.02 - Added navigation bar and styles. - 12/12/2017 4:45 PM
     + header nav a links. - 12/12/2017 4:46 PM
-    + added few styles in css and applied borders for body * for testing - 12/12/2017 4:47 PM
+    + added few styles in css and applied borders for body * for testing. - 12/12/2017 4:47 PM
