@@ -1,0 +1,26 @@
+body * {
+	border: 1px solid red;
+}
+body {
+	margin: 0px;
+	font-family: arial;
+}
+header {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	border-top: 2px solid #8a2be2;
+}
+nav {
+	padding: 12px;
+	font-size: 24px;
+}
+#navdlinks1 {
+	display: none;
+}
+#navdlinks1h:hover #navdlinks1 {
+	display: relative;
+}
+nav a{
+	text-decoration: none;
+}
