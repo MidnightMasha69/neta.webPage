@@ -12,5 +12,5 @@ Changelog:
 
     v0.0201 - Fully Recreated nav menu and added one working dropdown menu. - 12/13/2017 11:17 PM
     - Removed old nav menu and styles in css. - 12/13/2017 11:18 PM
-    + New clean nav bar. - 12/13/2017 11:19 PM.
+    + New clean nav bar. - 12/13/2017 11:19 PM
     * Note: Add paddings margins and continue the nav bar. - 12/13/2017 11:21 PM
