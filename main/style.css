@@ -48,4 +48,10 @@ nav a:hover {
 }
 #dropdown1:hover #dropdown1cont {
 	display: block;
-} /* add paddings and margins*/
+}
+#hp1 {
+	position: relative;
+	top: 48px;
+	text-align: center;
+	font-size: 42px;
+}
