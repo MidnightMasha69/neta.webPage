@@ -16,3 +16,5 @@ Changelog:
     * Note: Add paddings margins and continue the nav bar. - 12/13/2017 11:21 PM
 
     v0.0202 - added some styles in nav on hover. - 12/14/2017 18:00 PM ~ 22:00 PM
+    
+    v0.0203 - added just p "Home Page." inside a div. - 12/19/2017 18:00 PM ~ 22:00 PM
