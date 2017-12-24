@@ -28,7 +28,7 @@ nav a {
 }
 nav a:hover {
 	background: #8a2be2;
-	color: #efefef;
+	color: #fff;
 }
 #dropdown1 {
 	position: relative;
@@ -42,9 +42,16 @@ nav a:hover {
 	position: absolute;
 	min-width: 125.39px;
 	box-shadow: 0px 5px 10px -5px #8a2be2;
+	top: 31px;
 }
 #dropdown1cont a {
 	display: block;
+	background: #C9BED3;
+	color: #6B00D6;
+}
+#dropdown1cont a:hover {
+	background: blueviolet;
+	color: #fff;
 }
 #dropdown1:hover #dropdown1cont {
 	display: block;
@@ -53,5 +60,25 @@ nav a:hover {
 	position: relative;
 	top: 48px;
 	text-align: center;
+	font-size: 64px;
+	color: #696969;
+	animation: hp1x 0.7s;
+}
+@keyframes hp1 {
+	from { opacity: 0; top: 32px; }
+	to { opacity: 1; top: 48px; }
+}
+#hp2 {
 	font-size: 42px;
+	animation: hp2x 0.7s;
+	position: relative;
+	top: 48px;
+	text-align: center;
+	color: #696969;
+	opacity: 0;
+/*	animation-fill-mode: forwards; */
+}
+@keyframes hp2 {
+	from { opacity: 0; top: 23px; }
+	to { opacity: 1; top: 48px; }
 }

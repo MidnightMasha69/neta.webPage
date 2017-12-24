@@ -19,16 +19,29 @@
 							<a href="#">Link2</a>
 							<a href="#">Link3</a>
 							</div>
-						
 					</div>
 						<a href="#">Some More Links</a>
 						<a href="#">Links</a>
 			</nav>
 		</header>
 		<div id="heading">
-	<p id="hp1">Home Page.</p>
-	</div>
-	
+			<p id="hp1">Home Page.</p>
+			<p id="hp2">Some more text. <br>
+			Text. some text.
+			</p>
+		</div>
+		<script>
+			window.onload = function() {
+			document.getElementById("hp1").style.animation = "hp1 0.7s";
+			setInterval(hp2wait, 1000);
+			clearInterval(hp2wait);
+			function hp2wait() {
+			var hp2 = document.getElementById("hp2").style;
+			hp2.animation = "hp2 0.7s";
+			hp2.animationFillMode = "forwards";
+			}
+			}
+		</script>
 	</body>
 	
 </html>
