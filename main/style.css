@@ -12,6 +12,11 @@ header {
 	border: none;
 	border-top: 2px solid #8a2be2;
 	box-shadow: 0px 0px 10px #8a2be2;
+	position: fixed;
+	top: 0px;
+	width: 2000px;
+	background: #fff;
+	z-index: 3;
 }
 nav {
 	padding: 4px 4px 3px 4px;
@@ -81,4 +86,29 @@ nav a:hover {
 @keyframes hp2 {
 	from { opacity: 0; top: 23px; }
 	to { opacity: 1; top: 48px; }
+}
+#mcontent {
+	font-size: 36px;
+	color: #696969;
+	position: relative;
+	text-align: center;
+	top: 260px;
+}
+#img1 {
+	width: 60%;
+	height: 60%;
+	position: relative;
+	top: 24px;
+}
+#mcontentb {
+	padding: 240px 16px 240px 16px;
+	font-size: 48px;
+	transform: rotate(90deg);
+	position: relative;
+	left: 46%;
+	top: 0px;
+	border: 0;
+	box-shadow: 0px 0px 5px black;
+	background: #efefef;
+	cursor: pointer;
 }
