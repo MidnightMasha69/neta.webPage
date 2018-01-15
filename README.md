@@ -23,3 +23,6 @@ Changelog:
     + added javascript to the windows.onload function so animations of the headings work properly. - 12/24/2017 11:41 PM
     + added second heading for home page and animated both first and second. - 12/24/2017 11:42 PM
     + fixed and redesigned the menu dropdown so position is right and colors are suitable. - 12/24/2017 11:43 PM
+
+    v0.0205 - added some text for decoration and added a .png img also for decoration. and a scroll button. - 12/28/2017 18:00 PM 21:00 PM
+    * scroll button still dont work. 12/28/2017 18:00 PM ~ 21:00 PM
