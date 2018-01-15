@@ -26,3 +26,6 @@ Changelog:
 
     v0.0205 - added some text for decoration and added a .png img also for decoration. and a scroll button. - 12/28/2017 18:00 PM 21:00 PM
     * scroll button still dont work. 12/28/2017 18:00 PM ~ 21:00 PM
+
+    v0.0206 - scroll button now have animation at page load. added more text after img1. - 1/15/2018 11:55 PM
+    * added comment with jQueary code for smooth scrolling for future use. not implanted yet. 1/15/2018 11:56 PM

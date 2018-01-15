@@ -99,6 +99,7 @@ nav a:hover {
 	height: 60%;
 	position: relative;
 	top: 24px;
+	box-shadow: 0px 0px 10px #000;
 }
 #mcontentb {
 	padding: 240px 16px 240px 16px;
@@ -111,4 +112,16 @@ nav a:hover {
 	box-shadow: 0px 0px 5px black;
 	background: #efefef;
 	cursor: pointer;
+	animation: hb1x 0.5s;
+	opacity: 0;
+}
+@keyframes hb1 {
+	from { opacity: 0; top: -20px; }
+	to { opacity: 1; top: 0px; }
+}
+#secondtext1p {
+	font-size: 48px;
+	margin: 320px 16px 240px 16px;
+	position: relative;
+	text-align: center;
 }
