@@ -29,3 +29,5 @@ Changelog:
 
     v0.0206 - scroll button now have animation at page load. added more text after img1. - 1/15/2018 11:55 PM
     * added comment with jQueary code for smooth scrolling for future use. not implanted yet. 1/15/2018 11:56 PM
+
+    v0.0207 - scroll function is implanted. - 1/16/2018 5:31 PM
