@@ -31,3 +31,9 @@ Changelog:
     * added comment with jQueary code for smooth scrolling for future use. not implanted yet. 1/15/2018 11:56 PM
 
     v0.0207 - scroll function is implanted. - 1/16/2018 5:31 PM
+
+    v0.0208 - added contact button and contact page. - 2/5-6/2018 21:00 PM ~ 2:00 AM
+    * changed home page photo. - 2/5-6/2018 21:00 PM ~ 2:00 AM
+    + added favicon. - 2/5-6/2018 21:00 PM ~ 2:00 AM
+    + added page after contact page. - 2/5-6/2018 21:00 PM ~ 2:00 AM
+    + new styles for everything. - 2/5-6/2018 21:00 PM ~ 2:00 AM
