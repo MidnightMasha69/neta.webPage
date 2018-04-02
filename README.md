@@ -37,3 +37,5 @@ Changelog:
     + added favicon. - 2/5-6/2018 21:00 PM ~ 2:00 AM
     + added page after contact page. - 2/5-6/2018 21:00 PM ~ 2:00 AM
     + new styles for everything. - 2/5-6/2018 21:00 PM ~ 2:00 AM
+
+**This Repository is discontinued. For the newer repository go to https://github.com/MidnightMasha69/Neta.WebPage.CSharp.
